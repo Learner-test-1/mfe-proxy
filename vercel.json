@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/auth/(.*)",
+      "destination": "https://auth-app.vercel.app/$1"
+    },
+    {
+      "source": "/chat/(.*)",
+      "destination": "https://chat-app.vercel.app/$1"
+    },
+    {
+      "source": "/dashboard/(.*)",
+      "destination": "https://dashboard-app.vercel.app/$1"
+    }
+  ]
+}
