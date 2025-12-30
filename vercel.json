@@ -2,8 +2,7 @@
   "rewrites": [
     {
       "source": "/testone/:path*",
-      "destination": "https://aiclub-dot-circle4life-dev.uc.r.appspot.com/:path*"
-
+      "destination": "https://testone-seven.vercel.app/:path*"
     },
     {
       "source": "/testtwo/:path*",
