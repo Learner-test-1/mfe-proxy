@@ -1,8 +1,16 @@
 {
   "rewrites": [
     {
+      "source": "/testone",
+      "destination": "https://testone-kohl.vercel.app"
+    },
+    {
       "source": "/testone/(.*)",
       "destination": "https://testone-kohl.vercel.app/$1"
+    },
+    {
+      "source": "/testtwo",
+      "destination": "https://testtwo-xxxx.vercel.app"
     },
     {
       "source": "/testtwo/(.*)",
