@@ -5,7 +5,7 @@
       "destination": "https://testone-seven.vercel.app/:path*"
     },
     {
-      "source": "/:path*",
+      "source": "/aiclub/:path*",
       "destination": "https://aiclub-dot-circle4life-dev.uc.r.appspot.com/:path*"
     }
   ]
