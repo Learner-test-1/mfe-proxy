@@ -2,19 +2,19 @@
   "rewrites": [
     {
       "source": "/testone",
-      "destination": "https://testone-kohl.vercel.app"
+      "destination": "https://testone-seven.vercel.app"
     },
     {
       "source": "/testone/(.*)",
-      "destination": "https://testone-kohl.vercel.app/$1"
+      "destination": "https://testone-seven.vercel.app/$1"
     },
     {
       "source": "/testtwo",
-      "destination": "https://testtwo-xxxx.vercel.app"
+      "destination": "https://testtwo-ruddy.vercel.app"
     },
     {
       "source": "/testtwo/(.*)",
-      "destination": "https://testtwo-xxxx.vercel.app/$1"
+      "destination": "https://testtwo-ruddy.vercel.app/$1"
     }
   ]
 }
