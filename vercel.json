@@ -6,7 +6,7 @@
     },
     {
       "source": "/testtwo/:path*",
-      "destination": "https://testtwo-ruddy.vercel.app/:path*"
+      "destination": "https://aiclub-dot-circle4life-dev.uc.r.appspot.com/:path*"
     }
   ]
 }
