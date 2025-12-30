@@ -1,12 +1,12 @@
 {
   "rewrites": [
     {
-      "source": "/dummy/(.*)",
-      "destination": "https://monthly-tracker-bay.vercel.app/$1"
+      "source": "/testone/(.*)",
+      "destination": "https://testone-lake.vercel.app/$1"
     },
     {
-      "source": "/testone/(.*)",
-      "destination": "https://testone-peach.vercel.app/$1"
+      "source": "/testtwo/(.*)",
+      "destination": "https://testtwo-ten.vercel.app/$1"
     },
     
   ]
